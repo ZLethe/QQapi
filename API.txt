@@ -1,0 +1,14 @@
+QQ查手机号
+https://cxx.yun7.me/qqapi?qq=
+手机号查QQ
+https://cxx.yun7.me/qqphone?phone=
+QQ查LOL
+https://cxx.yun7.me/qqlol?qq=
+LOL查QQ
+https://cxx.yun7.me/lolname?name=
+QQ老密码查询
+https://cxx.yun7.me/qqlm?qq=
+微博查手机号
+https://cxx.yun7.me/wbapi?id=
+手机号查微博
+https://cxx.yun7.me/wbphone?phone=
